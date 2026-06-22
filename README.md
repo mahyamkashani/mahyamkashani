@@ -3,18 +3,18 @@
 #### ✨ My name is Mahya ✨ 
 
 I'm passionate about programming and everything related to Robotics, not limited to,  but including the Planning of underwater robots. 
-I recently graduated with PhD in Computer Science at IT-Univestitet i Kobenhavn, Kobenhavns, Danmark. I was also one of the Early Stage Researchers within [REMARO nework](https://remaro.eu).
-I've obtained my master's degree in Computer Engineering, major in AI and Robotics at Shahid Rajaee University, Tehran, Iran in 2019.
+I recently graduated with PhD in Computer Science at IT-Univestitet i Kobenhavn, Kobenhavns, Danmark and  I was also one of the Early Stage Researchers within [REMARO nework](https://remaro.eu). I am Postdoctoral researcher at Orebro University, AI, Robotics, and Cybersecurity (ARC) Group in Sweden.
+I've obtained my master's degree in Computer Engineering, major in AI and Robotics in 2019.
 
 🌱 Currently improving my knownledge about:
 
-- 🤖 ROS
+- 🤖 ROS2
 - 🐍 Python
-- 🧠 AI
-- 💬 physics-based simulation like Gazebo, Unreal Engine
+- 🧠 AI (especifically Foundation Models like VLMs and VLAs)
+- 💬 physics-based simulation like Gazebo, Webots, and MujuCo
 - 
 
-📫 How to reach me: mahmo@itu.dk, mahya.mkashani@gmail.com
+📫 How to reach me: mahya.mohammadi-kashani@oru.se, mahya.mkashani@gmail.com
 
 ⚡I like to describe myself as someone analytical, self-critical, and a perfectionist, always trying to improve to be competent in what I do.
 
